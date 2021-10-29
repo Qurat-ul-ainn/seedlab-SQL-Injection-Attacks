@@ -1,4 +1,4 @@
-# seedlab-SQL-Injection-Attacks
+# SQL Injection Attack
 
 
 ### Task 1:
