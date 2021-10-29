@@ -45,7 +45,7 @@ We will result in SQL Query
 		  
       FROM credential
 		  
-      WHERE name='Admin' #' && password='xyz'
+      WHERE name='Admin' #' && password=''
 
 
 ##### Task 2.2
